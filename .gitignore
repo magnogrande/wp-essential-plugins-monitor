@@ -1,0 +1,15 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Dependências comuns (se um dia usar)
+vendor/
+node_modules/
