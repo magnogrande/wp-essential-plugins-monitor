@@ -24,6 +24,7 @@ Edite o array `$plugins_essenciais` no código:
 ```php
 $plugins_essenciais = [
     'elementor/elementor.php',
-    'classic-editor/classic-editor.php',
-    // ...
+    'elementor-pro/elementor-pro.php',
+    'envato-elements/envato-elements.php',
+    'simple-history/index.php',
 ];
